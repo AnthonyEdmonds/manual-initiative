@@ -1,6 +1,6 @@
 # Manual Initiative
 
-A tiny module for Foundry VTT which allows you to enter initiative values in the combat tracker without having roll in-program first.
+A tiny module for Foundry VTT which allows you to enter initiative values in the combat tracker without having to roll in-program first.
 
 ## About
 
