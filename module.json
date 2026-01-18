@@ -1,0 +1,23 @@
+{
+  "id": "manual-initiative",
+  "title": "Manual initiative",
+  "description": "Enter initiative in the Foundry VTT combat tracker without having roll in-program",
+  "url": "https://github.com/AnthonyEdmonds/manual-initiative",
+  "manifest": "https://raw.githubusercontent.com/AnthonyEdmonds/manual-initiative/1.0.0/module.json",
+  "download": "https://github.com/AnthonyEdmonds/manual-initiative/archive/refs/tags/1.0.0.zip",
+  "authors": [
+    {
+      "name": "Anthony Edmonds",
+      "url": "https://github.com/AnthonyEdmonds",
+      "flags": {}
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "esmodules": [
+    "manual-initiative.js"
+  ]
+}
